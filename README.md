@@ -6,7 +6,7 @@ Zafar Avzalshoev, Pang-jo Chun
 Department of Civil Engineering, The University of Tokyo  
 Contact: zafar@g.ecc.u-tokyo.ac.jp
 
-**Zenodo DOI:** [to be assigned on upload before submission]  
+**Zenodo DOI:** https://doi.org/10.5281/zenodo.20710501  
 **arXiv preprint:** [to be added]
 
 ---
@@ -207,8 +207,7 @@ Simulation data is derived from the GMFlow dataset (Shi et al., 2026). Please al
 If you use this dataset or code, please cite:
 
 ```
-Avzalshoev, Z., & Chun, P. (2026). Sparse Observability Limits of Low-Frequency
-Regional Seismic Ground-Motion Fields. [Journal/arXiv]. DOI: [to be assigned]
+Avzalshoev, Z., & Chun, P. (2026). Sparse Observability Limits of Low-Frequency Regional Seismic Ground-Motion Fields. Zenodo. https://doi.org/10.5281/zenodo.20710501
 ```
 
 ```
