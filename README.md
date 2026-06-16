@@ -1,4 +1,4 @@
-# Zenodo Data Repository
+# Data Repository
 
 **Sparse Observability Limits of Long-Period Regional Seismic Ground-Motion Fields**
 
