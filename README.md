@@ -4,7 +4,7 @@
 
 Zafar Avzalshoev, Pang-jo Chun  
 Department of Civil Engineering, The University of Tokyo  
-Contact: zafar@g.ecc.u-tokyo.ac.jp
+Contact: zavzalshoev@gmail.com
 
 **Zenodo DOI:** https://doi.org/10.5281/zenodo.20710501  
 **arXiv preprint:** [to be added]
